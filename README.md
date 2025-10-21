@@ -1,9 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Malak</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+<h3 align="center">Backend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Flutter**
+
+- 🤖 Interested in **Machine Learning**, building models, and applying AI in real projects
 
 - 📫 How to reach me **Malkahh04@gmail.com**
 
