@@ -40,13 +40,6 @@ Final-year Computer Science student at Cairo University. Specializing in the int
 
 ---
 
-### Engineering Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malksobhy&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malksobhy&layout=compact&theme=dark&hide_border=true&title_color=007ACC&text_color=ffffff" />
-</p>
-
----
 
 ### Contact Information
 * **Email**: Malkahh04@gmail.com
